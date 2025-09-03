@@ -25,7 +25,7 @@ This project focuses on deploying a basic Security Operations Center (SOC) infra
 
 
 
-## Demo
+## Network diagram
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ab0831d-0ecb-443a-9d20-71d87806b35c" alt="Description" width="600"/><br>
